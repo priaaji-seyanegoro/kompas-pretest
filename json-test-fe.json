@@ -1,0 +1,83 @@
+{
+  "detail": [
+    {
+      "jam": "03:15",
+      "tanggal": "18 Februari 2021",
+      "nama": "Ayam Tangkap",
+      "pengeluaraan": 77249
+    },
+    {
+      "jam": "03:15",
+      "tanggal": "18 Februari 2021",
+      "nama": "Mie Rebus",
+      "pengeluaraan": 32154
+    },
+    {
+      "jam": "00:20",
+      "tanggal": "17 Februari 2021",
+      "nama": "Soto Kuning",
+      "pengeluaraan": 34992
+    },
+    {
+      "jam": "05:59",
+      "tanggal": "17 Februari 2021",
+      "nama": "Ayam Geprek",
+      "pengeluaraan": 37674
+    },
+    {
+      "jam": "05:45",
+      "tanggal": "16 Februari 2021",
+      "nama": "Otak-otak",
+      "pengeluaraan": 11971
+    },
+    {
+      "id": "idb64846e448ed2",
+      "jam": "09:38",
+      "tanggal": "19 Februari 2020",
+      "nama": "Nasi Uduk",
+      "pengeluaraan": 5000
+    },
+    {
+      "id": "id168a91d033ce7",
+      "jam": "09:39",
+      "tanggal": "19 Februari 2020",
+      "nama": "Pisang",
+      "pengeluaraan": 10000
+    },
+    {
+      "id": "idd13a50e3f1af6",
+      "jam": "09:39",
+      "tanggal": "19 Februari 2020",
+      "nama": "Kebab",
+      "pengeluaraan": 10000
+    },
+    {
+      "id": "id18a7efbe2e9ac",
+      "jam": "09:40",
+      "tanggal": "19 Februari 2020",
+      "nama": "Soto",
+      "pengeluaraan": 5000
+    },
+    {
+      "id": "id1ca6c87709d68",
+      "jam": "09:48",
+      "tanggal": "19 Februari 2020",
+      "nama": "Sate Padang",
+      "pengeluaraan": 22000
+    },
+    {
+      "id": "id2686cb7c1ff7f",
+      "jam": "09:49",
+      "tanggal": "19 Februari 2020",
+      "nama": "Wedang Jahe",
+      "pengeluaraan": 3000
+    },
+    {
+      "id": "idc9b5d03308f83",
+      "jam": "09:52",
+      "tanggal": "19 Februari 2020",
+      "nama": "Bakso Urat",
+      "pengeluaraan": 20000
+    }
+  ]
+}
